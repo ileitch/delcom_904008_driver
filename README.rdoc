@@ -6,7 +6,7 @@ It should be pretty trivial to adapt this driver to work with any generation II 
 
 == Requirements
 
-  * ruby-usb: http://www.a-k-r.org/ruby-usb/
+* ruby-usb: http://www.a-k-r.org/ruby-usb/
 
 == Example usage
 
